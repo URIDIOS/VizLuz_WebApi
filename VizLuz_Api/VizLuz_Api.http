@@ -1,0 +1,10 @@
+@VizLuz_Api_HostAddress = https://localhost:7167
+
+GET {{VizLuz_Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{VizLuz_Api_HostAddress}}/api/electrodomesticos/listar
+
+###
